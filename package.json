@@ -1,0 +1,19 @@
+{
+  "name": "prg6",
+  "version": "1.0.0",
+  "description": "lab program 6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shubham",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "latest",
+    "ejs": "^2.5.7",
+    "express": "latest",
+    "express-validator": "^4.1.1",
+    "mongodb": "^2.2.22",
+    "mongoose": "latest"
+  }
+}
